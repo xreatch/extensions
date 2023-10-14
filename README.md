@@ -1,8 +1,6 @@
-# TurboWarp Extension Gallery
+#  Extension Gallery
 
-User-contributed unsandboxed extension gallery for TurboWarp.
-
-https://extensions.turbowarp.org/
+User-contributed unsandboxed extension gallery \.
 
 ## Contributing
 
